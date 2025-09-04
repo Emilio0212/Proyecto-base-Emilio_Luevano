@@ -10,5 +10,11 @@ class Potencia:
     def calcularPotencia(self):
         return self.base ** self.exponente
     
+class RaizCuadrada:
+    def calcularRaiz(self):
+        return self.numero ** 0.5   
+    
+print("Hola")
+    
 
     
